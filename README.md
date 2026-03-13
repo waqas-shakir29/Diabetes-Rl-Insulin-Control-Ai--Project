@@ -19,8 +19,3 @@ pip install numpy matplotlib
 # Notes
 * Training: 500 episodes, 20 time steps per episode.
 * Testing: Learned policy without exploration.
-Notes
-
-Training: 500 episodes, 20 time steps per episode
-
-Testing: learned policy without exploration
